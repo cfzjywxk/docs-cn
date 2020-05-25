@@ -20,7 +20,6 @@ aliases: ['/docs-cn/dev/reference/sql/statements/show-table-next-row-id/']
 
 ![ShowStmt](/media/sqlgram/ShowStmt.png)
 
-
 ## 示例
 
 + 创建一张表
